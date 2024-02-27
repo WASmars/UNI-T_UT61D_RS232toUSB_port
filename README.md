@@ -10,6 +10,10 @@ during my teardown, the UT61D uses main chip FS9922-DMM4, where it
   
 
 # UNI-T RS232 cable UT-D02 disassembly
+my original RS232 cable UT-D02 is old type, which has larger space for placing CP2102 module to convert TTL
+
+![image](https://github.com/WASmars/UNI-T_UT61D_RS232toUSB_port/assets/54877239/bec2b783-43ce-4f96-8b9f-f34582ea171d)
+
 ![image](https://github.com/WASmars/UNI-T_UT61D_RS232toUSB_port/assets/54877239/438648f9-30af-4f00-8b99-5a89aaa1bb4d)
 ![image](https://github.com/WASmars/UNI-T_UT61D_RS232toUSB_port/assets/54877239/e403065a-f597-41c3-a0c6-8a7163404fe1)
 
