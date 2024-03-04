@@ -37,6 +37,8 @@ Reference information
 http://blog.avrnoob.com/2014/03/uni-t-ut61e-rs232-serial-interface.html
 - Analysis of UT61 communications
 https://sourceforge.net/p/ut61/wiki/protocol/
+###UT61D should uses 2400 baud with 8 bit characters, no parity and 1 stop bit.As the data packets all end with CRLF.### To activate it, the RTS line needs to be cleared and the DTR line set, As the data packets all end with CRLF
+
 - Sigrok UNI-T UT61D info, especially for the  IC datasheet spec for RS232 interface definition
 https://sigrok.org/wiki/UNI-T_UT61D
 -  Differential pair signal
