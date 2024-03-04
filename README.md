@@ -25,8 +25,11 @@ after mod, missing pictures for the front
 
 Since TTL and RS232 has reversed High/Low signal, only need to revised Q2 direction from Common collector to Common Emitter mode to get proper 1s and 0s for TTL com port
 To prevent the high level voltage from Q1 collector, I place 180K resistor to limit the voltage of Q2-base.
-### Correct serial port settings for UT61D meter in TS DMM viewer, we can choose_____mothertool MT-4520 or @HID Multimeter ###
-
+### Correct serial port settings for UT61D meter in TS DMM viewer, we can choose_____###
+- mothertool MT-4520
+- or @HID Multimeter
+- or MASTECH MS8150D
+will update as I confirmed
 
 
 Reference information
